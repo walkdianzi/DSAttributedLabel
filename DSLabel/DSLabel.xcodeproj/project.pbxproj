@@ -26,6 +26,7 @@
 		F97541C51B75D48B00733A5B /* NSLayoutConstraint+MASDebugAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = F97541BA1B75D48B00733A5B /* NSLayoutConstraint+MASDebugAdditions.m */; };
 		F97541C61B75D48B00733A5B /* View+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = F97541BC1B75D48B00733A5B /* View+MASAdditions.m */; };
 		F97541C91B75D4AC00733A5B /* OnmasonryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F97541C81B75D4AC00733A5B /* OnmasonryViewController.m */; };
+		F9F95B081B7CCE07003BC24E /* UIView+Masonry_DS.m in Sources */ = {isa = PBXBuildFile; fileRef = F9F95B071B7CCE07003BC24E /* UIView+Masonry_DS.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -81,6 +82,8 @@
 		F97541BD1B75D48B00733A5B /* View+MASShorthandAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "View+MASShorthandAdditions.h"; sourceTree = "<group>"; };
 		F97541C71B75D4AC00733A5B /* OnmasonryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OnmasonryViewController.h; sourceTree = "<group>"; };
 		F97541C81B75D4AC00733A5B /* OnmasonryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OnmasonryViewController.m; sourceTree = "<group>"; };
+		F9F95B061B7CCE07003BC24E /* UIView+Masonry_DS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Masonry_DS.h"; sourceTree = "<group>"; };
+		F9F95B071B7CCE07003BC24E /* UIView+Masonry_DS.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Masonry_DS.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -178,6 +181,8 @@
 		F97541A61B75D48B00733A5B /* Masonry */ = {
 			isa = PBXGroup;
 			children = (
+				F9F95B061B7CCE07003BC24E /* UIView+Masonry_DS.h */,
+				F9F95B071B7CCE07003BC24E /* UIView+Masonry_DS.m */,
 				F97541A71B75D48B00733A5B /* MASCompositeConstraint.h */,
 				F97541A81B75D48B00733A5B /* MASCompositeConstraint.m */,
 				F97541A91B75D48B00733A5B /* MASConstraint+Private.h */,
@@ -306,6 +311,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F97541C51B75D48B00733A5B /* NSLayoutConstraint+MASDebugAdditions.m in Sources */,
+				F9F95B081B7CCE07003BC24E /* UIView+Masonry_DS.m in Sources */,
 				F975417F1B6F971A00733A5B /* ViewController.m in Sources */,
 				F97541C31B75D48B00733A5B /* MASViewConstraint.m in Sources */,
 				F975419E1B6F9A0100733A5B /* AttributedLabelViewController.m in Sources */,

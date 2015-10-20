@@ -9,6 +9,8 @@
 #import "ViewController.h"
 #import "AttributedLabelViewController.h"
 #import "OnmasonryViewController.h"
+#import "Masonry.h"
+#import "UIView+Masonry_DS.h"
 
 @interface ViewController ()<UITableViewDelegate,UITableViewDataSource>{
     
@@ -24,14 +26,16 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    _dataArray = @[@"FontColor",@"lineBreakMode",@"Alignment"];
+//    _dataArray = @[@"FontColor",@"lineBreakMode",@"Alignment"];
+//    
+//    _dataArray2 = @[@"画线",@"行间距",@"富文本不同字体大小"];
+//    UITableView *_table = [[UITableView alloc] initWithFrame:CGRectMake(0, 0, self.view.frame.size.width, self.view.frame.size.height)];
+//    
+//    _table.delegate = self;
+//    _table.dataSource = self;
+//    [self.view addSubview:_table];
     
-    _dataArray2 = @[@"画线",@"行间距",@"富文本不同字体大小"];
-    UITableView *_table = [[UITableView alloc] initWithFrame:CGRectMake(0, 0, self.view.frame.size.width, self.view.frame.size.height)];
-    
-    _table.delegate = self;
-    _table.dataSource = self;
-    [self.view addSubview:_table];
+
     // Do any additional setup after loading the view, typically from a nib.
 }
 
