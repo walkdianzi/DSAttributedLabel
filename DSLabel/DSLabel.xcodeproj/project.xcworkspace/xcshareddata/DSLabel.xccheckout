@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>83139785-86D2-41A5-A3C7-E3264F7CDC8E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DSLabel</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0C9E22206DC56EC762C1140D6318578FDA538C1A</key>
+		<string>github.com:walkdianzi/DSAttributedLabel.git</string>
+		<key>4E2FE149E7760D15E2A054C6763E9D735B6A707A</key>
+		<string>http://%25E9%2583%2591%25E9%25BD%2590%25E6%25BB%2587@code.hzchengzi.com:7990/scm/zfl/vanwell-app-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DSLabel/DSLabel.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0C9E22206DC56EC762C1140D6318578FDA538C1A</key>
+		<string>../../..</string>
+		<key>4E2FE149E7760D15E2A054C6763E9D735B6A707A</key>
+		<string>../../../../stash</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:walkdianzi/DSAttributedLabel.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0C9E22206DC56EC762C1140D6318578FDA538C1A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0C9E22206DC56EC762C1140D6318578FDA538C1A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DSAttributedLabel</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4E2FE149E7760D15E2A054C6763E9D735B6A707A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>stash</string>
+		</dict>
+	</array>
+</dict>
+</plist>

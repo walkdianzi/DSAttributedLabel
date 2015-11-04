@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0C9E22206DC56EC762C1140D6318578FDA538C1A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4E2FE149E7760D15E2A054C6763E9D735B6A707A" : 0,
+    "0C9E22206DC56EC762C1140D6318578FDA538C1A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "83139785-86D2-41A5-A3C7-E3264F7CDC8E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4E2FE149E7760D15E2A054C6763E9D735B6A707A" : "stash",
+    "0C9E22206DC56EC762C1140D6318578FDA538C1A" : "DSAttributedLabel"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DSLabel",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DSLabel\/DSLabel.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:walkdianzi\/DSAttributedLabel.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0C9E22206DC56EC762C1140D6318578FDA538C1A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/%25E9%2583%2591%25E9%25BD%2590%25E6%25BB%2587@code.hzchengzi.com:7990\/scm\/zfl\/vanwell-app-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4E2FE149E7760D15E2A054C6763E9D735B6A707A"
+    }
+  ]
+}
